@@ -25,5 +25,5 @@ The tkinter package includes following modules −
     ✔️tkinter.ttk − Themed widget set introduced in Tk 8.5, providing modern alternatives for many of the classic widgets in the main tkinter module.
 
 
-Tkinter Widgets
+<h1>Tkinter Widgets</h1>
 Tkinter provides various controls, such as buttons, labels and text boxes used in a GUI application.
